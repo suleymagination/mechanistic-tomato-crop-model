@@ -158,12 +158,12 @@ The climate time-series, crop growth, and harvest metrics stored in `data/` are 
 
 ## References
 
-* **Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998).** *Crop evapotranspiration: Guidelines for computing crop water requirements* (FAO Irrigation and Drainage Paper No. 56). Food and Agriculture Organization of the United Nations.
-* **de Zwart, H. F. (1996).** *Analyzing energy-saving options in greenhouse cultivation using a simulation model* [Doctoral dissertation, Wageningen Agricultural University]. WUR Repository.
+* **Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998).** *Crop evapotranspiration: Guidelines for computing crop water requirements* (FAO Irrigation and Drainage Paper No. 56). Food and Agriculture Organization of the United Nations. http://www.climasouth.eu/sites/default/files/FAO%2056.pdf
+* **de Zwart, H. F. (1996).** *Analyzing energy-saving options in greenhouse cultivation using a simulation model* [Doctoral dissertation, Wageningen Agricultural University]. WUR Repository. https://library.wur.nl/WebQuery/wda/919866
 * **Maree, S. C., Zhang, P., van Marrewijk, B. M., de Zwart, F., Bijlaard, M., & Hemming, S. (2025).** Autonomous greenhouse cultivation of dwarf tomato: Performance evaluation of intelligent algorithms for multiple-sensor feedback. *Sensors*, 25(14), Article 4321. https://doi.org/10.3390/s25144321
 * **Marshall, B., & Biscoe, P. V. (1980).** A model for C3 leaves describing the dependence of net photosynthesis on irradiance. *Journal of Experimental Botany*, 31(1), 29–39. https://doi.org/10.1093/jxb/31.1.29
-* **Monteith, J. L., & Unsworth, M. H. (2013).** *Principles of environmental physics: Plants, animals, and the atmosphere* (4th ed.). Academic Press.
-* **Stanghellini, C. (1987).** *Transpiration of greenhouse crops: An aid to climate management* [Doctoral dissertation, Wageningen Agricultural University]. WUR Repository.
+* **Monteith, J. L., & Unsworth, M. H. (2013).** *Principles of environmental physics: Plants, animals, and the atmosphere* (4th ed.). Academic Press. https://doi.org/10.1016/B978-0-12-386910-4.00013-5
+* **Stanghellini, C. (1987).** *Transpiration of greenhouse crops: An aid to climate management* [Doctoral dissertation, Wageningen Agricultural University]. WUR Repository. https://library.wur.nl/WebQuery/wda/488134
 
 ```
 
