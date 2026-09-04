@@ -117,7 +117,7 @@ The mechanistic growth model was validated against empirical destructive harvest
 
 * **Mean Absolute Error (MAE):** $28.57\text{ g}/\text{pot}$
 * **Root Mean Square Error (RMSE):** $39.98\text{ g}/\text{pot}$
-* **Mean Absolute Percentage Error (MAPE):** $21.55%\$
+* **Mean Absolute Percentage Error (MAPE):** $21.55\%\$
 
 ---
 
@@ -126,7 +126,7 @@ The mechanistic growth model was validated against empirical destructive harvest
 1. **Early & Mid-Season Accuracy ($2024-10-22$ and $2024-11-05$):**
 The model effectively tracks early vegetative-to-generative transition dynamics and ripening onset. Incorporating an S-curve maturation delay accurately captures the zero-harvest state on October 22 while achieving an $18.6\%$ relative error on November 5.
 2. **Late-Season Fresh Weight Underestimation ($2024-11-15$):**
-The overall residual error ($\text{MAPE} = 21.55%\$) is primarily driven by the final harvest point, where observed fruit fresh weight reached $275.20\text{ g}/\text{pot}$ compared to the simulated $207.85\text{ g}/\text{pot}$.
+The overall residual error ($\text{MAPE} = 21.55\%\$) is primarily driven by the final harvest point, where observed fruit fresh weight reached $275.20\text{ g}/\text{pot}$ compared to the simulated $207.85\text{ g}/\text{pot}$.
 
 * **Physiological Cause:** Standard Light Use Efficiency (LUE) frameworks assume a constant conversion factor from dry matter assimilation to total fresh weight. However, during final fruit maturation (post-breaker stage), dwarf tomatoes undergo rapid cellular expansion driven by sink-driven water uptake rather than additional dry matter accumulation. Because static LUE models do not account for late-stage cell enlargement and osmotic water uptake, the model yields a conservative fresh weight prediction at final harvest.
 
