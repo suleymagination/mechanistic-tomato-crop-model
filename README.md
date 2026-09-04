@@ -107,16 +107,16 @@ The mechanistic growth model was validated against empirical destructive harvest
 
 ### Quantitative Performance Breakdown
 
-| Date | Observed FW ($\text{g}/\text{pot}$) | Simulated FW ($\text{g}/\text{pot}$) | Absolute Error ($\text{g}/\text{pot}$) | Percentage Error ($\%$) | Status |
+| Date | Observed FW (g/pot) | Simulated FW (g/pot) | Absolute Error (g/pot) | Percentage Error (%) | Status |
 | --- | --- | --- | --- | --- | --- |
-| **2024-10-22** | $0.00$ | $2.39$ | $2.39$ | — | **Excellent** (Near-zero ripening onset) |
-| **2024-11-05** | $85.69$ | $101.65$ | $15.96$ | $18.6\%$ | **High Precision** (Mid-season trajectory) |
-| **2024-11-15** | $275.20$ | $207.85$ | $67.34$ | $24.5\%$ | **Conservative** (Late-stage peak underestimation) |
+| **2024-10-22** | 0.00 | 2.39 | 2.39 | — | **Excellent** (Near-zero ripening onset) |
+| **2024-11-05** | 85.69 | 101.65 | 15.96 | 18.6% | **High Precision** (Mid-season trajectory) |
+| **2024-11-15** | 275.20 | 207.85 | 67.34 | 24.5% | **Conservative** (Late-stage peak underestimation) |
 
 **Overall Model Statistics:**
 
-* **Mean Absolute Error (MAE):** $28.57\text{ g}/\text{pot}$
-* **Root Mean Square Error (RMSE):** $39.98\text{ g}/\text{pot}$
+* **Mean Absolute Error (MAE):** 28.57 g/pot
+* **Root Mean Square Error (RMSE):** 39.98 g/pot
 * **Mean Absolute Percentage Error (MAPE):** 21.55%
 
 ---
