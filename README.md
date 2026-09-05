@@ -158,19 +158,12 @@ The climate time-series, crop growth, and harvest metrics stored in `data/` are 
 
 ## References
 
-Abbaspour, M., Shukla, M. R., Saxena, P. K., & Saxena, S. (2026). Optimal Energy Management in Indoor Farming Using Lighting Flexibility and Intelligent Model Predictive Control. *IEEE Transactions on Automation Science and Engineering*, *23*, 8585–8597. https://doi.org/10.1109/tase.2026.3680042
-
-Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998). *Crop Evapotranspiration: Guidelines for computing crop water requirements* (FAO Irrigation and Drainage Paper No. 56). Food and Agriculture Organization of the United Nations. http://www.climasouth.eu/sites/default/files/FAO%2056.pdf
-
-Maree, S. C., Zhang, P., Marrewijk, B. M. van, Zwart, F. de, Bijlaard, M., & Hemming, S. (2025). Autonomous Greenhouse Cultivation of Dwarf Tomato: Performance Evaluation of Intelligent Algorithms for Multiple-Sensor Feedback. *Sensors*, *25*(14), 4321. https://doi.org/10.3390/s25144321
-
-Marshall, B., & Biscoe, P. V. (1980). A Model for C 3 Leaves Describing the Dependence of Net Photosynthesis on Irradiance. *Journal of Experimental Botany*, *31*(1), 29–39. https://doi.org/10.1093/jxb/31.1.29
-
-Monteith, J. L., & Unsworth, M. H. (2013). Steady-State Heat Balance. In *Elsevier eBooks* (pp. 217–247). Elsevier BV. https://doi.org/10.1016/b978-0-12-386910-4.00013-5
-
-Stangheilini, C., Schenk, J., & Bot, G. P. A. (1987). *Transpiration of Greenhouse Crops: an aid to climate management*. https://library.wur.nl/WebQuery/wda/488134
-
-Thornley, J. H. M., & Johnson, I. R. (2000). *Plant and Crop Modelling A Mathematical Approach to Plant and Crop Physiology*. Blackburn Press. https://lccn.loc.gov/00108157
-
-Zwart, de H. F. (1996). *Analyzing energy-saving options in greenhouse cultivation using a simulation model*. https://library.wur.nl/WebQuery/wda/919866
+* Abbaspour, M., Shukla, M. R., Saxena, P. K., & Saxena, S. (2026). Optimal Energy Management in Indoor Farming Using Lighting Flexibility and Intelligent Model Predictive Control. In *IEEE Transactions on Automation Science and Engineering* (Vol. 23, pp. 8585–8597). Institute of Electrical and Electronics Engineers. https://doi.org/10.1109/tase.2026.3680042
+* Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998). *Crop Evapotranspiration: Guidelines for computing crop water requirements*. Food and Agriculture Organization of the United Nations. http://www.climasouth.eu/sites/default/files/FAO%2056.pdf
+* Maree, S. C., Zhang, P., Marrewijk, B. M. van, Zwart, F. de, Bijlaard, M., & Hemming, S. (2025). Autonomous Greenhouse Cultivation of Dwarf Tomato: Performance Evaluation of Intelligent Algorithms for Multiple-Sensor Feedback. *Sensors*, **25**(14), 4321. https://doi.org/10.3390/s25144321
+* Marshall, B., & Biscoe, P. V. (1980). A Model for C 3 Leaves Describing the Dependence of Net Photosynthesis on Irradiance. *Journal of Experimental Botany*, **31**(1), 29–39. https://doi.org/10.1093/jxb/31.1.29
+* Monteith, J. L., & Unsworth, M. H. (2013). Steady-State Heat Balance. In *Elsevier eBooks* (pp. 217–247). Elsevier BV. https://doi.org/10.1016/b978-0-12-386910-4.00013-5
+* Stangheilini, C., Schenk, J., & Bot, G. P. A. (1987). *Transpiration of Greenhouse Crops: an aid to climate management*. https://library.wur.nl/WebQuery/wda/488134
+* Thornley, J. H. M., & Johnson, I. R. (2000). *Plant and Crop Modelling A Mathematical Approach to Plant and Crop Physiology*. Blackburn Press, Caldwell, N.J. https://lccn.loc.gov/00108157
+* Zwart, de H. F. (1996). *Analyzing energy-saving options in greenhouse cultivation using a simulation model*. https://library.wur.nl/WebQuery/wda/919866
 
