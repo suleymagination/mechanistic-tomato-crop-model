@@ -165,6 +165,3 @@ The climate time-series, crop growth, and harvest metrics stored in `data/` are 
 * **Monteith, J. L., & Unsworth, M. H. (2013).** *Principles of environmental physics: Plants, animals, and the atmosphere* (4th ed.). Academic Press. https://doi.org/10.1016/B978-0-12-386910-4.00013-5
 * **Stanghellini, C. (1987).** *Transpiration of greenhouse crops: An aid to climate management* [Doctoral dissertation, Wageningen Agricultural University]. WUR Repository. https://library.wur.nl/WebQuery/wda/488134
 
-```
-
-```
